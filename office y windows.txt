@@ -1,1 +1,5 @@
+Se ejecuta el siguiente comando:
+
 irm https://get.activated.win | iex
+
+Se elige segun lo que se desea activar
